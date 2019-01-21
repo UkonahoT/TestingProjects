@@ -1,0 +1,12 @@
+ Edit file....
+ Volume in drive C is Windows
+ Volume Serial Number is 8658-5D84
+
+ Directory of C:\Git\myProjects
+
+21.01.2019  17.40    <DIR>          .
+21.01.2019  17.40    <DIR>          ..
+21.01.2019  17.40                 0 test.txt
+17.01.2019  17.37    <DIR>          TestingProjects
+               1 File(s)              0 bytes
+               3 Dir(s)  138ÿ139ÿ594ÿ752 bytes free
